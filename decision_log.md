@@ -7,6 +7,9 @@ This document tracks decisions made by the Grin project and points to documentat
 
 ID | Date | Decision | Reference |
 |---|:---|:---|:---|
+82 | 20250812 | Funding request Grin Node meets UmbrelOs- EmbassyOs | [Meeting note](https://github.com/grincc/agenda/blob/main/notes/2025-08-12-community-meeting-notes.md)
+81 | 20250729 | New Grin Bitcoin fund multisig 4/7,Donation Grincoin.org,Telegram Bot bounty accepted  | [Meeting Note](https://github.com/grincc/agenda/blob/main/notes/2025-07-29-community-meeting-notes.md)
+80 | 20250531 | Grin Governance Council announced | [Forum](https://forum.grin.mw/t/introducing-the-new-community-council-cc/11793/14)
 79 | 20210302 | Ship Council ASIC to @hendi | [Meeting Note](notes/20210302-meeting-governance.md#decision-ship-council-asic-to-hendi)
 78 | 20210216 | Approve @antiochp Q1 2021 funding request | [Meeting Note](notes/20210216-meeting-governance.md#decision-approve-antiochp-funding-request)
 77 | 20210119 | Approve expensing GPU server for testnet mining costs | [Meeting Note](notes/20210119-meeting-governance.md#4-gpu-server-for-testnet-mining-costs)
