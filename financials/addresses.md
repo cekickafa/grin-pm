@@ -33,9 +33,9 @@ Any questions or concerns about authenticity can be raised publicly in the Grin 
 
 ##### Segwit
 
-`bc1q2x8gu8n85ylur5j83yflhpg5hf80nhnyem98k2pld46lf4czhmgsxq8wlu`
+`bc1qmsy32rn6hu5vrelpfyqj52cmrpwwr690dkca6pefpw0p843urwnqws6d6v`
 
-https://blockchair.com/bitcoin/address/bc1q2x8gu8n85ylur5j83yflhpg5hf80nhnyem98k2pld46lf4czhmgsxq8wlu
+[https://blockchair.com/bitcoin/address/bc1q2x8gu8n85ylur5j83yflhpg5hf80nhnyem98k2pld46lf4czhmgsxq8wlu](https://blockchair.com/bitcoin/address/bc1qmsy32rn6hu5vrelpfyqj52cmrpwwr690dkca6pefpw0p843urwnqws6d6v)
 
 Currently unavailable.
 
