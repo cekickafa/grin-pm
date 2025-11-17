@@ -33,10 +33,22 @@ The meeting focused on development priorities, the GGC Post-Funding bounty syste
 
 **Agenda Points & Actions**
 
+ https://github.com/mimblewimble/grin-pm/issues/438
+## Follow Up.
+- _Fixing peers_, [grin++ node bans Rust nodes](https://forum.grin.mw/t/funding-proposal-pibd-implementation-in-grin/11583/2).
+   * https://github.com/mimblewimble/grin/pull/3811 PR
+   * Checking grin++ seed nodes.
+- [Payment proofs ](https://forum.grin.mw/t/grin-product-wishlist/9704/61) **fix**.
+- Grin [Github organization](https://github.com/grincc/agenda/issues/177#issuecomment-2973518577).
+-  [Grin MultiSig](https://forum.grin.mw/t/funding-proposal-grin-multisig/11837/1) 
+- [ Grin Node meets UmbrelOs, EmbassyOs](https://forum.grin.mw/t/funding-request-grin-node-meets-umbrelos-embassyos/11928)
+- [ Cuckatoo reference miner](https://forum.grin.mw/t/request-for-funding-cuckatoo-reference-miner/12033)
+
+ ## Proposed Agenda
 * MultiSig Funding Proposal Discussion
 * Development Priorities @ardocrat
-*  Post-Funding Bounty System & Donations
-* Third-Party Wallet Integration (Stack/Unstoppable)
+*  Post-Funding Bounty System & Donations to @ardocrat,@nicoalsflamel, @scilio
+* Third-Party Wallet Integrations (Stack wallet- 20k)
 
 
 
@@ -101,9 +113,12 @@ __Wiesche__: @ardocrat you Can buy Hardware 🫶. Thank you for your work. You c
 
 
 
-**Third-Party Wallet Integration (Stack/Unstoppable)**
+**Third-Party Wallet Integration (Stack wallet)**
+
+https://forum.grin.mw/t/stack-wallet-integration/12217
 
 __anonymous__: 3) Stack wallet Grin implementation (via wrapper), 20k$ request.
+
 __anonymous__: It is more like Stack Wallet offers, hey if you want integration, we can do so, it will take 20k
 
 __anonymous__: Personally I am not against funding Stack Wallet, but I do not like paying upfront. I like long term commitment to the project. Hence my proposal would be, we encourage Stack Wallet to integrate Grin. If it turns out well and is still working after 4 years, we will consider a "Post Funding Donation," just like we did to many others today.
@@ -139,10 +154,10 @@ I thought it would be a good alternative to enter the iOS market.
 
 **TO DO List**
 
-* Define an RFC for MultiSig implementation.
+* Define a RFC for MultiSig implementation.
 * Ardocrat to contact Ckec regarding BTC address for donation
   
   
 
 Meeting adjourned.
----
+
