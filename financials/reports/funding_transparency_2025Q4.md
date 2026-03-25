@@ -45,4 +45,3 @@ BTC | 63.00348784 | $91,997.73 | $5,796,178 | bc1qmsy32rn6hu5vrelpfyqj52cmrpwwr6
 
 ### Comments
 
-* After the 2 quarter after merge, the value of BTC decreased significantly from $118,000 median price after merge to $91,9000, negatively impacting the available funds in usd terms. 
